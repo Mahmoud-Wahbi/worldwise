@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "As Sulayyil",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2026-08-26T08:09:52.380Z",
+      "notes": "",
+      "position": {
+        "lat": "20.797201434307",
+        "lng": "46.05468750000001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Markaz al Wahat ad Dakhilah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-08-26T08:11:45.205Z",
+      "notes": "",
+      "position": {
+        "lat": "25.16517336866393",
+        "lng": "28.4765625"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Chinchon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-08-26T13:03:23.630Z",
+      "notes": "",
+      "position": {
+        "lat": "40.14528929567662",
+        "lng": "-3.4497070312500004"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Alcochete",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-08-26T13:04:51.679Z",
+      "notes": "",
+      "position": {
+        "lat": "38.70265930723801",
+        "lng": "-8.876953125000002"
+      },
+      "id": 98443206
+    }
+  ]
+}
